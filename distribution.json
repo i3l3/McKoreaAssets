@@ -26,7 +26,7 @@
         {
           "id": "xyz.mckorea:mkblocker:2022-05-30",
           "name": "MKBlocker",
-          "type": "File",
+          "type": "ForgeMod",
           "artifact": {
               "size": 4138,
               "MD5": "1fe8f106a915a7c7c23aaaa77e09c13d",
