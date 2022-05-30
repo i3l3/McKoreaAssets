@@ -24,6 +24,29 @@
       "autoconnect": true,
       "modules": [
         {
+          "id": "com.example:artifact:1.0.0@jar.pack.xz",
+          "name": "Artifact 1.0.0",
+          "type": "Library",
+          "artifact": {
+              "size": 4231234,
+              "MD5": "7f30eefe5c51e1ae0939dab2051db75f",
+              "url": "http://files.site.com/maven/com/example/artifact/1.0.0/artifact-1.0.0.jar.pack.xz"
+          },
+          "subModules": [
+              {
+                  "id": "xyz.mckorea:mkblocker:2022-05-30",
+                  "name": "MKBlocker",
+                  "type": "File",
+                  "artifact": {
+                      "size": 4138,
+                      "MD5": "1fe8f106a915a7c7c23aaaa77e09c13d",
+                      "path": "mods/mkmod-1.0.jar",
+                      "url": "https://github.com/i3l3/McKoreaAssets/mkmod-1.0.jar"
+                  }
+              }
+          ]
+      },
+        {
           "id": "net.minecraftforge:fmlcore:1.18.2-40.1.21",
           "name": "Minecraft Forge (fmlcore)",
           "type": "ForgeHosted",
