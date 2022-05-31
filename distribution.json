@@ -23,19 +23,7 @@
       "mainServer": false,
       "autoconnect": true,
       "modules": [
-        {
-          "id": "xyz.mckorea:mkblocker:2022-05-30",
-          "name": "MKBlocker",
-          "type": "ForgeMod",
-          "required": {
-            "value": true
-          },
-          "artifact": {
-              "size": 4138,
-              "MD5": "1fe8f106a915a7c7c23aaaa77e09c13d",
-              "url": "https://github.com/i3l3/McKoreaAssets/mkmod-1.0.jar"
-          }
-        },
+        
         {
           "id": "net.minecraftforge:fmlcore:1.18.2-40.1.21",
           "name": "Minecraft Forge (fmlcore)",
