@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://files.minecraftforge.net/maven/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
