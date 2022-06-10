@@ -21,7 +21,7 @@
         "largeImageKey": "seal-circle"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9:universal",
