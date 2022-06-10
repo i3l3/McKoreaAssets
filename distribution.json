@@ -219,6 +219,10 @@
           "id": "xyz.mckorea:mkblocker:1.0",
           "name": "McKorea Blocker Mod",
           "type": "ForgeMod",
+          "required": {
+            "value": false,
+            "def": false
+          },
           "artifact": {
               "size": 200404,
               "MD5": "e8433b388406031b1c85e42468dc3ef6",
