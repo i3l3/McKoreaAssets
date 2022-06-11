@@ -214,6 +214,17 @@
               }
             }
           ]
+        },
+        ,
+        {
+          "id": "xyz.mckorea:mkblocker:1.0",
+          "name": "McKorea Blocker Mod",
+          "type": "ForgeMod",
+          "artifact": {
+              "size": 200929,
+              "MD5": "274005c317ba11044fd080b15c44a5cf",
+              "url": "https://github.com/i3l3/McKoreaAssets/raw/main/mkblocker-1.0.jar"
+          }
         }
       ]
     }
